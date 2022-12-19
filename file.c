@@ -6,7 +6,7 @@ int main () {
 
     while (score != 10) {
         score++;
-        printf ("Score: %i \n", score);
+        printf ("Your SCORE is: %i \n", score);
     }
 
     return 0;
